@@ -10,6 +10,14 @@ Express	- It’s a robust Node.js web application framework that helps in creati
 React	- A JavaScript library used to create beautiful and interactive user interfaces developed by Facebook and the community of individual developers.
 
 Node - It’s a JavaScript runtime environment built on Google Chrome’s V8 engine, and it compiles js at the runtime.
+--
+# Issues regarding OSX Catalina and Brew Install Mongo when running mongod on backend
+
+info
+https://www.positronx.io/react-mern-stack-crud-app-tutorial/
+https://github.com/SinghDigamber/react-mernstack-crud
+https://developer.mongodb.com/community/forums/t/error-couldnt-connect-to-server-127-0-0-1-27017/705/16
+MONGOD issue:  brew services start mongodb-community brew services list  
 
 
 --
